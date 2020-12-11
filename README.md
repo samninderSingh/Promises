@@ -1,4 +1,4 @@
 # Promises
 
-* Promise VS callback
-* romise All vs Promise race
+* Promise VS Callback
+* Promise All vs Promise race
